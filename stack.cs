@@ -85,3 +85,24 @@ public class HelloWorld
         return top == -1;
     }
 }
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+// STACK
+/*
+    Stack is a linear data structure which stores element in a LIFO fashion or FIFO fashion.
+    Last In First Out -> the element which is added at the last will be the first one to go out
+    First In Last Out -> the element which is added first will be the last one to go out.
+
+    Advantages:
+       - Easy to implement
+
+    Disadvantages:
+        - Memeory wastage
+        - No Random access
+    
+    Application
+        - Recursion
+        - Do / undo operation
+*/
